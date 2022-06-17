@@ -1,0 +1,16 @@
+Traditional Massage - 100000
+Foot Massage - 55000
+Foot Spa (Massage, Scrub, Pedicure) - 110000
+Back Massage - 50000
+Body Steam - 45000
+Body Scrub - 75000
+Face Relaxing - 115000
+Ear Candle - 50000
+Menicure-Pedicure - 140000
+Hair Spa - 105000
+Hair Mask - 105000
+Creambath - 105000
+Smoothing - 400000
+Coloring - 300000
+Hair Wash & Blow Dry - 60000
+Hair Wash & Dry - 30000
